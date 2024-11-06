@@ -7,17 +7,10 @@
   </template>
   
   <script>
-  import AppHeader from '@/components/AppHeader.vue';
-  
-  export default {
-    name: 'AboutPage',
-    components: {
-      AppHeader,
-    },
-  };
+
   </script>
   
   <style scoped>
-  /* Стили для страницы "О компании" */
+
   </style>
   
